@@ -1,0 +1,8 @@
+Eu acessei o site da PokeXGames, e ao entrar no site eu indentifiquei o botao: Criar conta 
+Inspecionei ele e vi seu código, e nele tinha escrito: 
+<button class="btn btn-primary btn-lg w-50" name="action" value="create-account" type="submit">Criar Conta</button>
+Esse botão chama a função lógica em javaScript para executar uma função de criar um novo usuário no sistema. 
+
+Esse botão de clique para baixar redireciona a pessoa para um link onde inicia o download do jogo:
+<a href="https://support.pokexgames.com/#/download?utm_source=landing_page&amp;utm_medium=facebook&amp;utm_campaign=" onclick="redirectPxgPage()" class="text-primary first-capitalize d-inline-block">clique para baixar</a> 
+ 
